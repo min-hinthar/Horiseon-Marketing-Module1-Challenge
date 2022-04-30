@@ -1,6 +1,6 @@
 Screenshot of Live Server on GitHub
 https://min-hinthar.github.io/Horiseon-Marketing-Module1-Challenge/
-<img src="./assets/images/Screenshot_Webcapture_30-4-2022_152621_min-hinthar.github.io.jpeg" width="70%">
+<img src="./assets/images/Screenshot_Web capture_30-4-2022_152621_min-hinthar.github.io.jpeg" width="70%">
 
 # Code Refactor Starter Code
 User Story
